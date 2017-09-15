@@ -1,0 +1,1 @@
+txt2hlp dochelp.txt doc.hlp
